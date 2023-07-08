@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e846d9e9.css",
+    "main.js": "/portfolio/static/js/main.50921f0e.js",
+    "static/media/swimming.jpg": "/portfolio/static/media/swimming.24ff1213d2c9f1466a0f.jpg",
+    "static/media/Tindog.png": "/portfolio/static/media/Tindog.abe97a1827eb4656c9d2.png",
+    "static/media/warehouse123.jpeg": "/portfolio/static/media/warehouse123.6ad736f75d818e046e9e.jpeg",
+    "static/media/yag2.jpg": "/portfolio/static/media/yag2.638b8930299a0f6b39c7.jpg",
+    "static/media/Resume1.docx": "/portfolio/static/media/Resume1.5c8c39ff1fcf7bfbf3c9.docx",
+    "static/media/travel.jpg": "/portfolio/static/media/travel.451f5146b7a3488cedb8.jpg",
+    "static/media/chess.jpg": "/portfolio/static/media/chess.3722effda6008576bc16.jpg",
+    "static/media/Drums.jpg": "/portfolio/static/media/Drums.759f9eb0008406962063.jpg",
+    "static/media/yag1.jpg": "/portfolio/static/media/yag1.8df0ceafb2cc7cc0d07e.jpg",
+    "static/media/img1.jpg": "/portfolio/static/media/img1.0cb687e14ee9de8d75f6.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.e846d9e9.css.map": "/portfolio/static/css/main.e846d9e9.css.map",
+    "main.50921f0e.js.map": "/portfolio/static/js/main.50921f0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e846d9e9.css",
+    "static/js/main.50921f0e.js"
+  ]
+}
