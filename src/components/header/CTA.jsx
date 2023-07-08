@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume1 from '../../assets/Resume1.docx'
+import Resume1 from '../../assets/Resume1.pdf'
 function CTA() {
   return (
     <div className='cta'>
