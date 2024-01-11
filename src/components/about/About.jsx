@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <FcReadingEbook class='about__icon'/>
               <h5>Education</h5>
-              <small>CS undergrad</small>
+              <small>Computer Science</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary class='about__icon'/>
