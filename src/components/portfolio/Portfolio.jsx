@@ -17,8 +17,7 @@ const Portfolio = () => {
           </div>
           <h3>Amazon product Price Tracker</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Yagnannimma/Yagnannimma" target='_blank' rel="noreferrer" className='btn'>Github</a>
-          <a href="https://linkedin.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Yagnannimma/Yagnannimma" target='_blank' rel="noreferrer" className='btn btn-primary'>Github</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -27,8 +26,7 @@ const Portfolio = () => {
           </div>
           <h3>Ware House Monitoring</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Yagnannimma/WareHouseMonitoring" target='_blank' rel="noreferrer" className='btn'>Github</a>
-          <a href="https://linkedin.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Yagnannimma/WareHouseMonitoring" target='_blank' rel="noreferrer" className='btn btn-primary'>Github</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -37,8 +35,7 @@ const Portfolio = () => {
           </div>
           <h3>Space Shooter Game</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Yagnannimma/SpaceShooterGame" target='_blank' rel="noreferrer" className='btn'>Github</a>
-          <a href="https://linkedin.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Yagnannimma/SpaceShooterGame" target='_blank' rel="noreferrer" className='btn btn-primary'>Github</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -47,8 +44,7 @@ const Portfolio = () => {
           </div>
           <h3>Drums</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Yagnannimma/Drums" target='_blank' rel="noreferrer" className='btn'>Github</a>
-          <a href="https://linkedin.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Yagnannimma/Drums" target='_blank' rel="noreferrer" className='btn btn-primary'>Github</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -57,8 +53,8 @@ const Portfolio = () => {
           </div>
           <h3>Tindog</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Yagnannimma/Tindog" target='_blank' rel="noreferrer" className='btn'>Github</a>
-          <a href="https://linkedin.com" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Yagnannimma/Tindog" target='_blank' rel="noreferrer" className='btn btn-primary'>Github</a>
+          
           </div>
         </article>
       </div>

@@ -1,7 +1,7 @@
 //rafce
 import React from 'react'
 import './about.css'
-import yag1 from '../../assets/yag1.jpg'
+import yag2 from '../../assets/yag2.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FcReadingEbook} from 'react-icons/fc'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-              <img src={yag1} alt=""></img>
+              <img src={yag2} alt=""></img>
           </div>
         </div>
 
@@ -23,12 +23,12 @@ const About = () => {
             <article className='about__card'>
               <FaAward class='about__icon'/>
               <h5>Experience</h5>
-              <small>Intern at Verisk Analytics</small>
+              <small>Software Engineer at Verisk Analytics</small>
             </article>
             <article className='about__card'>
               <FcReadingEbook class='about__icon'/>
               <h5>Education</h5>
-              <small>Computer Science</small>
+              <small>Computer Science Engineering</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary class='about__icon'/>

@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import yag2 from '../../assets/yag2.jpg'
+import yag1 from '../../assets/yag1.jpeg'
 import HeaderSocial from './HeaderSocials'
 
 const Header = () => {
@@ -10,11 +10,11 @@ const Header = () => {
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Yagnan Nimma</h1>
-        <h5 className="text-light">FullStack Developer</h5>
+        <h5 className="text-light">Software Engineer</h5>
         <CTA/>
         <HeaderSocial />
         <div className="me">
-          <img src={yag2} alt="me"/>
+          <img src={yag1} alt="me"/>
         </div>
         <a href="#contact" className="scroll_down">Scroll Down</a>
       </div>
