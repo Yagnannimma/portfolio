@@ -42,7 +42,7 @@ const About = () => {
           and a continuous drive for learning, seeking an opportunity as a Software Engineer to make a 
           significant impact in the industry.
           </p>
-          <a href="#content" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

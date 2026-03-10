@@ -21,7 +21,7 @@ const Contact = () => {
             <AiOutlineLinkedin/>
               <h4>LinkedIn</h4>
               <h5>Nimma Yagnan</h5>
-              <a href="https://www.linkedin.com/in/nimma-yagnan-a1a751204/" target='_blank' rel='noreferrer'>connect</a>
+              <a href="https://www.linkedin.com/in/yagnannimma/" target='_blank' rel='noreferrer'>connect</a>
           </article>
           <article className='contact__option'>
               <AiOutlineWhatsApp />
